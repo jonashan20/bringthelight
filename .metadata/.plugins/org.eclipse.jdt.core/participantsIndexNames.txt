@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\Users\renoi\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2694712947.index
+\gradle-getting-started\src\main\java
+C:\Users\renoi\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\438608621.index
+\gradle-getting-started\src\main\java
+C:\Users\renoi\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2984545932.index
+\gradle-getting-started\src\main\java
